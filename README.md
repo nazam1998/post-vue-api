@@ -1,5 +1,8 @@
 # post-vue
+This is the frontend part of my api project
 
+You will find the backend repo on this [link](https://github.com/nazam1998/post-laravel-api)
+### You will need to use node version 12 because I use node-sass
 ## Project setup
 ```
 npm install
